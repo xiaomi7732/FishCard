@@ -1,3 +1,32 @@
+/* /Pages/Index.razor.rz.scp.css */
+.content[b-6tngkvcanx] {
+    flex-direction: column;
+}
+
+.title[b-6tngkvcanx]
+{
+    display: flex;
+    justify-content: center;
+}
+
+.logo[b-6tngkvcanx]
+{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+/* /Pages/Search.razor.rz.scp.css */
+.content[b-2yv4l3fork] {
+    display: flex;
+    flex-direction: column;
+}
+
+.searchForm[b-2yv4l3fork] {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-g54fw4uzw3] {
     position: relative;
