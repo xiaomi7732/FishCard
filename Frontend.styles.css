@@ -62,6 +62,7 @@ button[b-2yv4l3fork] {
     flex-wrap: wrap;
     width: 100%;
     max-width: 1000px;
+    justify-content: space-evenly;
 }
 
 .fish-card[b-2yv4l3fork] {
