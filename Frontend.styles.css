@@ -69,7 +69,7 @@ button[b-2yv4l3fork] {
     border: 1px dashed #999;
     padding: 16px;
     margin: 4px;
-    max-width: 250px;
+    width: 250px;
     background-color: var(--control-surface);
     box-shadow: 2px 2px 1px #ddd;
 }
@@ -78,10 +78,9 @@ h3[b-2yv4l3fork] {
     margin-top: 4px;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 600px) {
     .fish-card[b-2yv4l3fork] {
         width: 100%;
-        max-width: 480px;
         flex-grow: 1;
     }
 }
