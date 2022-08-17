@@ -7,7 +7,7 @@
 
 .logo[b-6tngkvcanx]
 {
-    margin-bottom: 12px;
+    margin-bottom: 3rem;
 }
 /* /Pages/Search.razor.rz.scp.css */
 .search-input-container[b-2yv4l3fork] {
@@ -54,6 +54,8 @@
 button[b-2yv4l3fork] {
     margin-left: 4px;
     margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
 
 #fish-card-container[b-2yv4l3fork] {
@@ -80,6 +82,11 @@ button[b-2yv4l3fork] {
     justify-content: center;
     align-items: baseline;
     margin-bottom: 48px;
+    flex-wrap: wrap;
+}
+
+.quick-access>div[b-2yv4l3fork] {
+    white-space: nowrap;
 }
 
 h3[b-2yv4l3fork] {
@@ -97,13 +104,6 @@ h3[b-2yv4l3fork] {
     position: relative;
     display: flex;
     flex-direction: column;
-}
-
-.topBar[b-g54fw4uzw3] {
-    display: flex;
-    justify-content: right;
-    font-size: 12px;
-    
 }
 /* /Shared/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-i4o461wlvp] {
