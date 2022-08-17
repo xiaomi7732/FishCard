@@ -7,8 +7,8 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Frontend.dll": "sha256-D65wXIWOnPoF62q3b1cc5PiNGv1uWMh2yjAVGxQb+Y8=",
-      "Microsoft.AspNetCore.Components.dll": "sha256-P+xgufRc\/IkkzcucuCKiPzGxyNjHkW0XuIszDX2B\/VY=",
+      "Frontend.dll": "sha256-4F18jv4Gf2KFeaJxc0gnijGRitm0L3W5ORwxDKV67Ps=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-k9WjnNfsCDteJOIKtOGXaQNpTnWX9guxoSkhLJsg8Uo=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-J56CIqNtJKqXm6dWMAhvRI23W5p7RnErlWEDZVcwjV0=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-Izlw\/SnIKXEmOa2P51s8rKqkVBfJ+MDvJMUpyP5lHkk=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-zhFtW4kE16TdrpPne9I1Cu9o0KYzrS50VE9MVSifJg4=",
