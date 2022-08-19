@@ -10,6 +10,10 @@
     margin-top: 6rem;
     margin-bottom: 3rem;
 }
+
+.logo>img[b-6tngkvcanx]{
+    width: 200px;
+}
 /* /Pages/Search.razor.rz.scp.css */
 .search-input-container[b-2yv4l3fork] {
     display: flex;
@@ -25,7 +29,7 @@
     min-width: 180px;
     max-width: 500px;
     background-color: var(--control-surface);
-    animation: fadeIn-b-2yv4l3fork 1s;
+    animation: fadeIn 1s;
 }
 
 #search-icon-holder[b-2yv4l3fork] {
@@ -51,7 +55,7 @@
     flex-flow: row;
     align-content: center;
     margin-bottom: 36px;
-    animation: fadeIn-b-2yv4l3fork 1s;
+    animation: fadeIn 1s;
 }
 
 button[b-2yv4l3fork] {
@@ -86,7 +90,7 @@ button[b-2yv4l3fork] {
     align-items: baseline;
     margin-bottom: 48px;
     flex-wrap: wrap;
-    animation: fadeIn-b-2yv4l3fork 1s;
+    animation: fadeIn 1s;
 }
 
 .quick-access>div[b-2yv4l3fork] {
@@ -101,16 +105,6 @@ h3[b-2yv4l3fork] {
     .fish-card[b-2yv4l3fork] {
         width: 100%;
         flex-grow: 1;
-    }
-}
-
-@keyframes fadeIn-b-2yv4l3fork {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
     }
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
